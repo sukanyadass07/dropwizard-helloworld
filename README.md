@@ -1,8 +1,9 @@
+-----------------------------------
+Hello Sukanya from outside Readme.
+------------------------------------
 
 dropwizard-helloworld
 =====================
-
-Hello Sukanya Dass 10:40 PM PST
 
 $ mvn clean package
 
