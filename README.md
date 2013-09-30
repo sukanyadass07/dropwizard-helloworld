@@ -1,7 +1,8 @@
-Changes Made By Sukanya
 
 dropwizard-helloworld
 =====================
+
+Changes Made By Sukanya Dass
 
 $ mvn clean package
 
